@@ -1,0 +1,10 @@
+/*start style*/
+body {
+  background: grey;
+}
+
+/*===================================*/
+[ng\:cloak], [ng-cloak], .ng-cloak {
+  display: none;
+}
+/*finish style*/
